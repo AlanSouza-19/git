@@ -47,3 +47,5 @@
 - `git pull` -> atualiza as alterações do repositório da nuvem para o repositório local
 
 - `git clone __urlDoProjeto__` -> Tranfere os arquivos do repositório especificado para o diretório atual
+
+by Alan Souza
